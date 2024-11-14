@@ -1,0 +1,31 @@
+
+# Mimetypes
+*.html text/html
+*.pdf application/pdf
+*.wrl model/vrml
+*.wrz model/vrml
+*.x3d model/x3d+xml
+*.x3dv model/x3d+vrml
+*.dae model/collada+xml
+
+*.dds image/x-dds
+*.gif image/gif
+*.jps image/x-jps
+
+# glTF and JSON files are written with Unix-style line endings.
+*.gltf text eol=lf
+*.json text eol=lf
+
+# Binary files
+*.zip binary
+*.wrl binary
+*.x3dz binary
+
+*.dds binary
+*.gif binary
+*.jpg binary
+*.png binary
+*.hdr binary
+*.bin binary
+*.glb binary
+*.blend binary
