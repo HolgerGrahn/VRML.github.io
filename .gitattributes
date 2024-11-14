@@ -20,6 +20,8 @@
 *.zip binary
 *.wrl binary
 *.x3dz binary
+# Bima
+*.bskey binary
 
 *.dds binary
 *.gif binary
