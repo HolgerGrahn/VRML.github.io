@@ -24,8 +24,38 @@
 *.dds binary
 *.gif binary
 *.jpg binary
+*.jpeg binary
+*.jps binary
 *.png binary
 *.hdr binary
+*.tif             binary
+*.tiff            binary
+*.wbmp            binary
+*.webp            binary
+
 *.bin binary
 *.glb binary
 *.blend binary
+
+# Video
+*.3gpp            binary
+*.3gp             binary
+*.as              binary
+*.asf             binary
+*.asx             binary
+*.avi             binary
+*.fla             binary
+*.flv             binary
+*.m4v             binary
+*.mng             binary
+*.mov             binary
+*.mp4             binary
+*.mpeg            binary
+*.mpg             binary
+*.ogv             binary
+*.swc             binary
+*.swf             binary
+*.webm            binary
+
+
+
